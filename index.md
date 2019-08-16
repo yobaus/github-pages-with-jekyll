@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## All about *sandwiches*! 
+![Sandwich](https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c1ef.png)
+
+
+##### I Hope You Enjoy.
