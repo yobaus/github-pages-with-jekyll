@@ -1,6 +1,6 @@
 ---
 title: "Sandwich of the 8/16/2019"
-date: 2019-16-8
+date: 2019-8-16
 ---
 
 
