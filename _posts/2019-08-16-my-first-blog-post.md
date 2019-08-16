@@ -1,6 +1,6 @@
 ---
 title: "Sandwich of the 8/16/2019"
-date: 2019-8-16
+date: 2019-08-16
 ---
 # Sandwich of the Day 9/16/2019
   ## Peanut butter
